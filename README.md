@@ -1,5 +1,5 @@
 # usgs-gauge-utils
-Utility scripts for querying and parsing river gauge station data from the US Geological Survey
+OBSOLITED: Utility scripts for querying and parsing river gauge station data from the US Geological Survey
 
 # NOTICE: Obsolited repository - Ongoing development in the [gaia-data-downloaders](https://github.com/gaia-hazlab/gaia-data-downloaders) repository
 
